@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
+// here we are finding two majority elements which has count more than n/3
 public class MajorityElement2 {
     public static void main(String[] args) {
         System.out.println(majorityElement(new int[] {2, 3, 2, 5, 5, 5, 9, 9, 9, 9, 5}));
