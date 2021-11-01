@@ -45,5 +45,5 @@ class MissingNumber {
                 return ans;
             }
 
-        return arr
+        return arr;
 }// } Driver Code Ends
